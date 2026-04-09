@@ -6,6 +6,7 @@ export default function Home() {
       <main style={{ padding: "40px" }}>
         <h1>Welcome to Mastroke 🚀</h1>
         <p>This is our new Next.js website By Vivek Kumar Sharma</p>
+        <p>This is new pera</p>
       </main>
     </div>
   );
